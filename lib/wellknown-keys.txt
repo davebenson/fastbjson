@@ -1,0 +1,13 @@
+id
+latitude
+longitude
+name
+altName
+type
+class
+address
+city
+state
+country
+key
+value

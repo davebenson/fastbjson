@@ -1,0 +1,30 @@
+{
+  "name": "fastbjson",
+  "version": "1.0.0",
+  "description": "efficient binary json representation",
+  "author": {
+    "name": "Dave Benson"
+  },
+  "license": "MIT",
+  "keywords": [
+    "json", "binary"
+  ],
+  "scripts": {
+    "test": "node t/test1.js"
+  },
+  "main": "lib/index.js",
+  "homepage": "https://github.com/davebenson/fastbjson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davebenson/fastbjson"
+  },
+  "bugs": {
+    "url": "https://github.com/davebenson/fastbjson/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "directories": {},
+  "readme": "README.md"
+}
