@@ -55,6 +55,6 @@ checkjson(genRepeated(100, tenstrings));
 checkjson(genRepeated(1000, tenstrings));
 
 checkjson(genBigMap(10, "foo"));
-//checkjson(genBigMap(100, "foo"));
-//checkjson(genBigMap(1000, "foo"));
+checkjson(genBigMap(100, "foo"));
+checkjson(genBigMap(1000, "foo"));
 
